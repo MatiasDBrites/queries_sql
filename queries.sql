@@ -79,27 +79,27 @@ SELECT min("level") FROM player p ;
 SELECT min(member) FROM guild g ; 
 
 -- avg level player
-SELECT avg ("level") FROM player p ;
+SELECT avg("level") FROM player p ;
 
 -- avg member guild
-SELECT avg (member) FROM guild g  ;
+SELECT avg(member) FROM guild g  ;
 
 -- sum todos los level de la raza orc
-SELECT sum ("level") 
+SELECT sum("level") 
 FROM player p  
 WHERE race = 'Orc';
 
 -- sum todos los level de la raza elf
-SELECT sum ("level") 
+SELECT sum("level") 
 FROM player p  
 WHERE race = 'Elf';
 
 -- sum todos los level de todos los player
-SELECT sum ("level") 
+SELECT sum("level") 
 FROM player p;  
 
 -- sum todos los member de todos los guild
-SELECT sum (member) 
+SELECT sum(member) 
 FROM guild g;  
 
 -- count la cantidad de name guild 
