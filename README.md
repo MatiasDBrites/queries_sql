@@ -13,7 +13,7 @@ nombre del proyecto: queries_sql
 
 [![diagramaguild.png](https://i.postimg.cc/50r9w83V/diagramaguild.png)](https://postimg.cc/bDQjPDWC)
 
-[![tabla-Player.png](https://i.postimg.cc/gkFXQPVP/tabla-Player.png)](https://postimg.cc/rzjwR3Zh)
+[![tabla-Player.png](https://i.postimg.cc/vBSKWqLH/tabla-Player.png)](https://postimg.cc/WFgSV7HQ)
 
 [![tabla-Guild.png](https://i.postimg.cc/x1jCVjqB/tabla-Guild.png)](https://postimg.cc/HVKHQgwt)
 
